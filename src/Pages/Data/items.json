@@ -1,0 +1,49 @@
+{
+
+    "mainCarosualImages":[
+        {"amount":"6,000 Rs", "image":"https://images.pexels.com/photos/4134644/pexels-photo-4134644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2","title":"Dignissimos debitis"},
+        {"amount":"10,000 Rs","image":"https://images.pexels.com/photos/12167747/pexels-photo-12167747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "title":"Consectetur adipisicing"},
+        {"amount":"7,000 Rs","image":"https://images.pexels.com/photos/7107590/pexels-photo-7107590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "title":"Temporibus aperiam"},
+        {"amount":" 11,500 Rs","image":"https://images.pexels.com/photos/11473353/pexels-photo-11473353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "title":"Expedita fugiat"},
+        {"amount":"9,000 Rs","image":"https://images.pexels.com/photos/9677167/pexels-photo-9677167.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "title":"Consectetur adipisicing"}
+
+    ],
+
+    "page1Cards":[
+        {"amount":"15,000 Rs", "image":"https://images.unsplash.com/photo-1523428461295-92770e70d7ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=395&q=80","title":"TajMahal"},
+        {"amount":"10,000 Rs","image":"https://images.unsplash.com/photo-1542361641859-c26bb3571dd7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80", "title":"Wow India"},
+        {"amount":"7,000 Rs","image":"https://images.unsplash.com/photo-1602643163983-ed0babc39797?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80", "title":"Hawa Mahal"},
+        {"amount":" 7000 Rs","image":"https://images.pexels.com/photos/6079192/pexels-photo-6079192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", "title":"Charminar"},
+        {"amount":"9,000 Rs","image":"https://images.unsplash.com/photo-1625464265874-11d083467efe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80", "title":"Dutch Cemetery"},
+        {"amount":"16,000 Rs","image":"https://images.unsplash.com/photo-1524311614474-8013dc7ac652?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=405&q=80", "title":"Consectetur Amet"}
+    ],
+
+
+    "mostVisitedPlaces":[
+        {"amount":"7,000 Rs","image":"https://media.gettyimages.com/id/663507425/photo/the-gateway-of-india-mumbai-india.jpg?s=612x612&w=0&k=20&c=4023ICzc5XE8a9KCZ7ADF69UT9TByAeW7iXLD1JpM0M=", "title":"Temporibus aperiam"},
+        {"amount":" 11,500 Rs","image":"https://media.istockphoto.com/id/520837732/photo/indian-landmark-gadi-sagar-in-rajasthan.jpg?s=612x612&w=0&k=20&c=sQgwAHU6yh91YrW63vhYXELdzgJJAklZshGBsObKDfE=", "title":"Expedita fugiat"},
+        {"amount":"9,000 Rs","image":"https://media.istockphoto.com/id/515855602/photo/kedarnath-in-india.jpg?s=612x612&w=0&k=20&c=_KmnQbbvqRftKusDTU_JUjVM3V80Mo2jBqaCNx948us=", "title":"Consectetur adipisicing"},
+        {"amount":"16,000 Rs","image":"https://media.istockphoto.com/id/905049262/photo/varanasi-at-sunrise.jpg?s=612x612&w=0&k=20&c=ooiOJzZ4vYe8paql2eHINqyIW_3JX9Hm1FelZ9kBkZ8=", "title":"Consectetur Amet"},
+        {"amount":"16,000 Rs","image":"https://media.istockphoto.com/id/157579910/photo/the-beach.jpg?s=612x612&w=0&k=20&c=aMk67AmzIVD_S1Nibww8ytUdyub2ck3HNQ3uTvuPWPI=", "title":"Consectetur Amet"},
+        {"amount":"16,000 Rs","image":"https://media.istockphoto.com/id/1215274990/photo/high-wide-angle-view-of-charminar-in-the-night.jpg?s=612x612&w=0&k=20&c=byyIjqgbslf-L191n6SJu0s35fvNoVeWsxV5rIPK7Sk=", "title":"Consectetur Amet"}
+
+    ],
+
+    "page1Cards1":[
+        {"amount":"6,000 Rs", "image":"https://themewagon.github.io/trips/images/img_1.jpg","title":"Dignissimos debitis"},
+        {"amount":"10,000 Rs","image":"https://themewagon.github.io/trips/images/img_2.jpg", "title":"Consectetur adipisicing"},
+        {"amount":"7,000 Rs","image":"https://themewagon.github.io/trips/images/img_3.jpg", "title":"Temporibus aperiam"},
+        {"amount":" 11,500 Rs","image":"https://themewagon.github.io/trips/images/img_4.jpg", "title":"Expedita fugiat"},
+        {"amount":"9,000 Rs","image":"https://themewagon.github.io/trips/images/img_5.jpg", "title":"Consectetur adipisicing"},
+        {"amount":"16,000 Rs","image":"https://themewagon.github.io/trips/images/img_6.jpg", "title":"Consectetur Amet"}
+
+    ],
+    "tourGuids":[
+        {"amount":"2,000","phone":"9440931303", "name":"Rathod", "rating":"4.0","image":"https://www.tajmahaltouristguide.com/image/catalog/guides/naimuddin.jpg"},
+        {"amount":"2,500","phone":"9912322304", "name":"Subbarao", "rating":"4.5","image":"https://www.tajmahaltourguidefamilygroup.com/tour-guides/images/tour-guides/mohd-hanif.jpg"},
+        {"amount":"3,000","phone":"8501042658", "name":"Suhel", "rating":"4.5","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5RGTV4cLP1IHv2i028QokYjx4KJ7NoWj0NrzziLAXeOPsjqbpV_Il4UfxFx7LtAlbQwydmRzpfI&usqp=CAU&ec=48600113"},
+        {"amount":"2,800","phone":"7730953511", "name":"SudarShan", "rating":"5.0","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpJgnikTn69yc65kPLJ0P70SI8uHSajvU0vpCPdlKNw&usqp=CAU&ec=48600113"},
+        {"amount":"4,000","phone":"9908917836", "name":"Shikavat", "rating":"4.8","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBOIqm8QhmG9NRBCqiqfHr27w1DWgtNqBy-6kzk84yQ&usqp=CAU&ec=48600113"}
+    ]
+
+}

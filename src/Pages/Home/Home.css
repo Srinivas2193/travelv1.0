@@ -1,0 +1,24 @@
+/* .imgClass{
+    height: calc(100vh - 196px);
+    min-height: 677px;
+} */
+
+.imgClass {
+	animation: fadeInAnimation ease 3s;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
+}
+
+/* @keyframes fadeInAnimation {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+} */
+
+@keyframes fadeInAnimation {
+    0%   {left: 0px; top: -468px;}
+    50% {left: 120px; top: -468px;}
+  }
